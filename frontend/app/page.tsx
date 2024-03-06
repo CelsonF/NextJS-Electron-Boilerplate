@@ -14,15 +14,14 @@ export default function Home() {
 					</h4>
 				</div>
 				<Image
-					src={Menhera.src}
-					className={styles.menhera}
-					alt="menhera"
-					width={200}
-					height={200}
-				/>
+						src="https://www.svgrepo.com/show/331309/binance.svg"
+						alt='Binance'
+						width={200}
+						height={200}
+					/>
 				<div className={styles.note}>
-					<EditSVG />
-					Get started by editting frontend/app/page.tsx
+					
+					Aqui começa a brincadeira CHARLES
 				</div>
 				<footer className={styles.footer}>
 					{'<'}/{'>'} with ♥
